@@ -19,9 +19,9 @@ I'm an aspiring embedded systems and electronics enthusiast from India 🇮🇳.
 - Projects involving low-cost microcontrollers
 
 ### 📫 Reach Me
-- ✉️ Email: mark99626ashwin@gmail.com
+- ✉️ Email: ashwinsakthivel9626@gmail.com
 - 🌐 Portfolio: _Coming Soon!_
-- 🔗 LinkedIn: _Add your link here if you have one_
+  
 
 ### ⚡ Fun Fact
 I love building things that make life easier — even if it's just using one button on an Arduino!
